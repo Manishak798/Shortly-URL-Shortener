@@ -79,6 +79,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Your Name - [GitHub](https://github.com/your-username)
+Your Name - [Manishak798](https://github.com/Manishak798)
 
 
