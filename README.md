@@ -2,6 +2,10 @@
 
 Short.ly is a URL shortening service built using Node.js, Express, MongoDB, Mongoose, and EJS, featuring JWT authentication for user authentication.
 
+# Project-img 📸
+
+![image](https://github.com/Manishak798/URL-Shortner/assets/90680330/168917c6-d5ef-491b-ab26-79364e142ec7)
+
 🔗 [Live Demo]()  
 
 ## Features
