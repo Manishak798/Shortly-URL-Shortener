@@ -1,0 +1,75 @@
+h1 {
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+.container {
+    background: #FBF8F1;
+    height: 420px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 0 0 50% 50%/0 0 100% 100%;
+    margin: 0;
+}
+
+svg {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
+.urlbox {
+    margin-left: 28%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-color: #ffff;
+    height: 75%;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin-top: 7%;
+    height: 380px;
+    width: 500px;
+}
+
+form {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+
+.f-element {
+    padding: 13px;
+}
+
+input {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    border: none;
+    color: black;
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+button {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 10px;
+}
